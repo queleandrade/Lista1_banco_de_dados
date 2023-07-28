@@ -25,3 +25,10 @@ Instância é a representação dos valores reais inseridos no banco de dados, q
 
 Questão 6 - Quais tipos de pessoas podem usar um Banco de Dados? Especifique o papel de cada uma delas no Banco.
 
+Administradore de banco de dados (DBA): adminstra o banco de dados, projeta, implementa e gerencia. 
+Projetista de banco de dados: são responsavéis por identificar os dados a serem armazenados e escolher estruturas apropriadas para representar e armazenar dados.
+Usuários finais: são usuários comuns que interagem com o banco de dados realizando algumas tarefas. Por exemplo, os alunos usando o SIGAA.
+Analistas de sistemas e programadores de aplicações (engenheiros de software): Analista de Sistemas identificam as necessidades dos usuários finais, especialmente os iniciantes e paramétricos, e definem as especificações das transações padrão que atendam a elas. Os programadores das aplicações implementasm, testam, depuram e documentam e mantêm essas transações programadas. 
+
+
+
