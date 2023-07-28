@@ -30,5 +30,22 @@ Projetista de banco de dados: são responsavéis por identificar os dados a sere
 Usuários finais: são usuários comuns que interagem com o banco de dados realizando algumas tarefas. Por exemplo, os alunos usando o SIGAA.
 Analistas de sistemas e programadores de aplicações (engenheiros de software): Analista de Sistemas identificam as necessidades dos usuários finais, especialmente os iniciantes e paramétricos, e definem as especificações das transações padrão que atendam a elas. Os programadores das aplicações implementasm, testam, depuram e documentam e mantêm essas transações programadas. 
 
+Questão 7 - Dê exemplo de um problema que pode acontecer caso o SGBD não tivesse um mecanismo para controle de concorrência.
+
+Exemplo: dois usuários tentam atualizar o mesmo dado simultaneamente, resultando em uma leitura incorreta e valores inconsistentes no Banco de Dados. 
+
+Questão 8 - Explique com suas palavras o que é mineração de dados. Dê exemplo de uma aplicação do mundo real que pode se beneficiar da mineração de dados.
+
+Mineração de dados de maneira bem objetica transforma os dadso brutos em insights significativos para a empresa, assim, as empresas consegue pegar essas informações e tomar decisões eficazes. Exemplo vivido no nosso dia a dia, é a recomendação de produtos, utiliza as técnicas de mineração de dados para analisar o histórico de compras e preferência do clientes para fazer recomendações. 
+
+Questão 9 - Por que você acredita que a disciplina de SBD é importante para o curso deSistemas de Informação? Quais benefícios ela pode trazer para o sua formação?
+
+Possibilita entender e lidar com dados de forma eficientes, segura e bem estrturada. Conseguimos entender como armazena e  recupera dados, controle de concorrência e transações, manipulação de dados com SQL, segurança e privacidade dos dados, e poder enxergar aplicações de caso de uso no dia a dia. 
+
+Questão 10 - Que tal encontrarmos material interessante na Internet para você estudar Banco de Dados.Pesquise na Internet sites interessantes sobre a disciplina de Sistemas de Banco de Dados. Procure por vídeo-aulas, livros, páginas de professores. Será que há algo nas redes socias? Há fóruns de discussão?
+
+Youtube tem algumas playlist em diversos canais com projetos práticos de banco de dados, o stack Overflow é uma comunidade online e que tem seções de banco de dados, diversas páginas na web fundamenta sobre BD, além dos livros. 
+
+
 
 
